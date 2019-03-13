@@ -14,7 +14,7 @@ public class PrimeNo {
 	  }
 	  
 	  else{  
-	   for(i=2;i<=m;i++){      
+	   for(i=1;i<=m;i++){      
 	    if(n%i==0){      
 	         
 	    	flag=false;   // not prime number
